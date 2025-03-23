@@ -5,9 +5,8 @@ I love exploring new things, especially in data science. I'm always curious and 
 
 
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salima-qritel)  
-📩 Email: ensa.naji@gmail.com
+## 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/salima-qritel) 
 
----
+
  *Feel free to explore my projects and contribute!* 
