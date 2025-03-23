@@ -6,7 +6,7 @@ I love exploring new things, especially in data science. I'm always curious and 
 
 
 ## 📫 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/salima-qritel) 
+[LinkedIn](https://www.linkedin.com/in/salima-qritel) | [GitHub](https://github.com/salima-qritel)
 
 
  *Feel free to explore my projects and contribute!* 
