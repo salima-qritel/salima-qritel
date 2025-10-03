@@ -1,5 +1,10 @@
-              # 👋 Hi, I'm Salima Qritel
-      ## 💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer
+<p align="center">
+  👋 Hi, I'm <b>Salima Qritel</b>
+</p>
+
+<p align="center">
+  💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer
+</p>
 ---
 ## 🚀 About Me
 
