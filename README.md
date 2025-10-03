@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm <b>Salima Qritel</b></h1>
 <h2 align="center">💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer</h2>
 
-
-
 ---
 
 ## 🚀 About Me
