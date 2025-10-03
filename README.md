@@ -1,10 +1,6 @@
-<p align="center">
-  <b># 👋 Hi, I'm Salima Qritel</b>
-</p>
+<h1 align="center">👋 Hi, I'm <b>Salima Qritel</b></h1>
+<h2 align="center">💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer</h2>
 
-<p align="center">
-  <b>## 💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer</b>
-</p>
 
 
 ---
