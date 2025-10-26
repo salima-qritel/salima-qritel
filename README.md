@@ -13,37 +13,25 @@ I’m open to **PFE internships, collaborative projects, and research opportunit
 
 ---
 
+
 ## 🧠 Technical Skills
 
-### 💾 Programming & Data Processing
-- **Python**, **SQL**, **R**
-- **NumPy**, **Pandas**, **Scikit-learn**, **TensorFlow**, **PyTorch**
-- **Data Cleaning**, **Feature Engineering**, **Data Visualization**
+### 📊 Data Science
+- **Python**, **Pandas**, **NumPy**, **Scikit-learn**
+- **Machine Learning**, **Deep Learning (TensorFlow, PyTorch)**
+- **Data Cleaning**, **Feature Engineering**, **Model Evaluation**
 
-### 📊 Business Intelligence
-- **Power BI**, **Tableau**, **Excel Advanced**
-- **Dashboard Design** and **KPI Reporting**
+### 🧩 Big Data & Business Intelligence
+- **SQL**, **Hadoop**, **Kafka**, **ETL (Power Query)**
+- **Power BI**, **DAX**, **Dashboard Design**, **Data Visualization**
 
-### 🤖 Machine Learning & AI
-- **Supervised / Unsupervised Learning**
-- **Deep Learning (CNN, RNN, LSTM, Transformers)**
-- **Natural Language Processing (NLP)**
-- **Model Evaluation & Optimization**
+### 🗄️ Databases
+- **MySQL**, **MongoDB**, **Neo4j**, **Redis**
 
-### ☁️ Cloud & Dev Tools
-- **Docker**, **Git/GitHub**, **CI/CD Basics**
-- **AWS (S3, EC2, SageMaker)**, **Google Colab**
-- **Linux**, **Jupyter Notebook**, **VS Code**
+### ☁️ Cloud & DevOps
+- **Docker**, **Git/GitHub**, **Jenkins**
+- **CI/CD Basics**, **Linux**, **Cloud Computing (AWS basics)**
 
----
-
-## 🌟 Soft Skills
-
-- 🔹 Strong analytical and problem-solving mindset  
-- 🔹 Fast learner, curious and adaptable  
-- 🔹 Teamwork and collaboration  
-- 🔹 Good communication and presentation skills  
-- 🔹 Passionate about innovation and continuous improvement  
 
 ---
 
