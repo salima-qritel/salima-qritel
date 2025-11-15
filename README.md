@@ -34,10 +34,12 @@ I enjoy turning **complex data into meaningful insights**, building intelligent 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-CC2927?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-FFCC00?style=for-the-badge&logo=google&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
+
 
 ### 🗄️ Databases & Big Data
 <p>
