@@ -1,15 +1,32 @@
-<h1 align="center">👋 Hi, I'm <b>Salima Qritel</b></h1>
-<h2 align="center">💻 Data Scientist | 🤖 AI Enthusiast | ☁️ Cloud Explorer</h2>
----
-## 🚀 About Me
-I am a **Data Scientist** with solid expertise in **Data Analysis** and **Power BI**, currently pursuing an engineering degree in **Data Science & Cloud Computing** at **ENSAO, Oujda**.  
-Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**, I’m eager to deepen my skills in **AI-driven solutions** and **Cloud technologies** such as **AWS, Docker, and CI/CD pipelines**.  
-I love transforming raw data into actionable insights and building scalable, intelligent systems.  
-I’m open to **PFE internships, collaborative projects, and research opportunities** in the fields of **Data Science, AI, and Business Intelligence**.
----
-## ⚙️ Tech Stack
+<h1 align="center">🌟 Hi, I'm <b>Salima Qritel</b></h1>
+<h3 align="center">💻 Data Scientist | 🤖 AI & Machine Learning Enthusiast | ☁️ Cloud & MLOps Explorer</h3>
+
 <p align="center">
-  <!-- Data Science -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a passionate **Data Scientist & AI Engineer in training**, currently pursuing an engineering degree in **Data Science & Cloud Computing at ENSAO Oujda**.
+
+I enjoy turning **complex data into meaningful insights**, building intelligent systems powered by **Machine Learning & Deep Learning**, and exploring **Cloud & DevOps technologies** to deploy scalable solutions.
+
+🔍 **Current Focus Areas**
+- Advanced Machine Learning & Deep Learning  
+- AI-powered application development  
+- Docker, AWS & CI/CD pipelines  
+- Data analytics & visualization  
+
+📌 **Open to:** PFE internship opportunities (2026), research collaborations, and AI/Data projects.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Data Science & AI
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -17,22 +34,53 @@ I’m open to **PFE internships, collaborative projects, and research opportunit
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
-<p align="center">
-  <!-- BI & Tools -->
+
+### 📊 Business Intelligence
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
-<p align="center">
-  <!-- DevOps & Cloud -->
+
+### ☁️ Cloud & DevOps
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 ---
+
+## 🗂️ Highlighted Projects
+
+- 🔹 **Data Analyst Agent (FastAPI + LangChain + Streamlit)**  
+  AI assistant for data exploration, cleaning, and automatic reporting.
+
+- 🔹 **Power BI Business Dashboards**  
+  Interactive dashboards for finance, HR, and sales analytics.
+
+- 🔹 **Machine Learning Portfolio**  
+  Regression, classification, clustering, NLP, and deep learning case studies.
+
+- 🔹 **Cloud & DevOps Mini-Projects**  
+  Dockerized ML apps, CI/CD pipelines, and cloud deployments.
+
+*(Let me know if you want custom project descriptions.)*
+
+---
+
 ## 🌐 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/salima-qritel)  
-- 📫 Email: **salima.qritel@gmail.com**  
-- 📂 GitHub Portfolio: [github.com/salima-qritel](https://github.com/salima-qritel)  
-*Feel free to explore my projects, contribute, or reach out for collaboration!* ✨
-ameliore les section de ce readme github comme un portfolio
+
+<p>
+  <a href="https://www.linkedin.com/in/salima-qritel">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:salima.qritel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/salima-qritel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+✨ *Feel free to explore my repositories, collaborate, or reach out!*  
