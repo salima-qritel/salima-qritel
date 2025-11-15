@@ -76,19 +76,23 @@ I enjoy turning **complex data into meaningful insights**, building intelligent 
 
 ## 🗂️ Highlighted Projects
 
-- 🔹 **Data Analyst Agent (FastAPI + LangChain + Streamlit)**  
-  AI assistant for data exploration, cleaning, and automatic reporting.
+- 🔹 **Intelligent Data Analysis Agent**  
+  Developed an AI agent to analyze CSV/Excel files, generate PDF reports, and answer natural-language queries using **GPT-4 + LangChain**. Built with **FastAPI backend** and **Streamlit frontend**, deployed with **Docker & Jenkins CI/CD**.
 
-- 🔹 **Power BI Business Dashboards**  
-  Interactive dashboards for finance, HR, and sales analytics.
+- 🔹 **LabLens — AI-Assisted Blood Test Explorer**  
+  Interactive platform for ingestion, filtering, statistical analysis, and visualization of blood test data. Includes an **LLM assistant** for safe execution of SQL/Pandas queries. Tech stack: **Pandas, DuckDB, SQLModel, Plotly, FastAPI, Docker**.
 
-- 🔹 **Machine Learning Portfolio**  
-  Regression, classification, clustering, NLP, and deep learning case studies.
+- 🔹 **Smart Kidney Disease Diagnosis via Federated Learning**  
+  Designed a federated learning system for decentralized diagnostic predictions using **Flower + TensorFlow MLP**. Deployed via Docker with monitoring through **Prometheus & Grafana**.
 
-- 🔹 **Cloud & DevOps Mini-Projects**  
-  Dockerized ML apps, CI/CD pipelines, and cloud deployments.
+- 🔹 **Spam Email Detection (NLP & Deep Learning)**  
+  Preprocessed and tokenized textual data, classified emails using **RNN, LSTM with Attention, and BERT (Hugging Face)**.
 
-*(Let me know if you want custom project descriptions.)*
+- 🔹 **Customer Churn Prediction Dashboard (Power BI)**  
+  Prepared data with **Power Query**, built a **Random Forest model** for churn prediction, and created an interactive **Power BI dashboard** for business insights.
+
+
+
 
 ---
 
