@@ -1,9 +1,6 @@
 <h1 align="center">🌟 Hi, I'm <b>Salima Qritel</b></h1>
 <h3 align="center">💻 Data Scientist | 🤖 AI & Machine Learning Enthusiast | ☁️ Cloud & MLOps Explorer</h3>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -18,8 +15,6 @@ I enjoy turning **complex data into meaningful insights**, building intelligent 
 - AI-powered application development  
 - Docker, AWS & CI/CD pipelines  
 - Data analytics & visualization  
-
-📌 **Open to:** PFE internship opportunities (2026), research collaborations, and AI/Data projects.
 
 ---
 
@@ -104,7 +99,7 @@ I enjoy turning **complex data into meaningful insights**, building intelligent 
   <a href="https://www.linkedin.com/in/salima-qritel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:salima.qritel@gmail.com">
+  <a href="mailto:salima.qritel23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/salima-qritel">
@@ -112,4 +107,3 @@ I enjoy turning **complex data into meaningful insights**, building intelligent 
   </a>
 </p>
 
-✨ *Feel free to explore my repositories, collaborate, or reach out!*  
